@@ -1,0 +1,17 @@
+{
+    "name": "moregatest/bing_opencart_translate",
+    "description": "OPencart fucking translate model by linbay",
+    "type": "project",
+    "require": {
+        "nategood/commando": "^0.2.9",
+        "katzgrau/klogger": "^1.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Moregatest",
+            "email": "twe.alexander@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
